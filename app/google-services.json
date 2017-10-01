@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "430361735377",
-    "firebase_url": "https://friendlychat-7716b.firebaseio.com",
-    "project_id": "friendlychat-7716b",
-    "storage_bucket": "friendlychat-7716b.appspot.com"
+    "project_number": "311676898802",
+    "firebase_url": "https://safeway-ufabc.firebaseio.com",
+    "project_id": "safeway-ufabc",
+    "storage_bucket": "safeway-ufabc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:430361735377:android:64e58dacc0483faa",
+        "mobilesdk_app_id": "1:311676898802:android:86ceb04160e72675",
         "android_client_info": {
-          "package_name": "com.google.firebase.udacity.friendlychat"
+          "package_name": "br.edu.ufabc.safeway"
         }
       },
       "oauth_client": [
         {
-          "client_id": "430361735377-2boqgn20agqm7gukmsauhu9n8g02vla4.apps.googleusercontent.com",
+          "client_id": "311676898802-8tsavh6ne3d6n4ulg77l7fo7f28e5gt1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.google.firebase.udacity.friendlychat",
+            "package_name": "br.edu.ufabc.safeway",
             "certificate_hash": "a0a3682cea35b6e8d240584d724966343c305b17"
           }
         },
         {
-          "client_id": "430361735377-6rme7lplf7sa88ivhe8317o9oh55s2qg.apps.googleusercontent.com",
+          "client_id": "311676898802-2u34lknvaq6674auneve8h70joipk72a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBmbSYyl6JlI5yZKa6AN7ZilBehHVqr1pk"
+          "current_key": "AIzaSyAQQNmyr9ZNMny81SmRLxBydpovGlDoJQQ"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "430361735377-6rme7lplf7sa88ivhe8317o9oh55s2qg.apps.googleusercontent.com",
+              "client_id": "311676898802-2u34lknvaq6674auneve8h70joipk72a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

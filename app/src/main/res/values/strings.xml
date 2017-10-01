@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">SafeWay</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">SafeWay</string>
     <string name="google_maps_key">AIzaSyABMpGvu83QNi0GSQesgXs2rBtlTRcQdlk</string>
+    <string name="sign_out">Sair</string>
 </resources>
